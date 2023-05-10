@@ -1,6 +1,6 @@
 # E-Store
 
-this is an Ecommerce website just like amazon, flipkart Etc.
+This is an Ecommerce website just like amazon, flipkart Etc.
 
 this site is in development mode 
 
