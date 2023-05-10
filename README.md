@@ -1,5 +1,6 @@
 # E-Store
-PopX Dashboard this is a dashboard of PopX dashboard site.
+
+this is an Ecommerce website just like amazon, flipkart Etc.
 
 this site is in development mode 
 
