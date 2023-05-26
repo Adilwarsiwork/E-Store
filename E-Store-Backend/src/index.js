@@ -26,18 +26,3 @@ app.listen(process.env.PORT, () => {
   console.log(`server is running on port ${process.env.PORT}`);
 });
 
-// try {
-//   mongoose
-//     .connect(
-//       "mongodb+srv://aadil0512:Alwaris%4012786@aadilwarsi05.oeccxvl.mongodb.net/?retryWrites=true&w=majority",
-//       {
-//         useNewUrlParser: true,
-//         useUnifiedTopology: true,
-//       }
-//     )
-//     .then(() => {
-//       console.log("Database connected");
-//     });
-// } catch (err) {
-//   // console.log(err);
-// }
